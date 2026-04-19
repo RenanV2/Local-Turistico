@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  background-color: #F5F4F0;
+}
+
+.comment{
+  color: #E1624F;
+  font-weight: bold;
+  margin-bottom: 8px;
+} 
+
+section{
+  margin-top: 48px;
+}
+
+img{
+  margin-bottom: 20px;
+  width: 1120px;
+  height: 350px;
+  border-radius: 28px;
+}
+h1 {
+  font-size: 36px;
+  margin-bottom: 40px;
+}
+
+h2 {
+  font-size: 32px;
+}
